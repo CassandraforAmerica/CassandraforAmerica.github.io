@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script async src="https://chatbot-dist.s3.us-east-2.amazonaws.com/chatbot/fullpage_build_chatbot.js" chatbotId="fa8e26de-ea4e-45fc-8364-f95b05479849" targetId="chatbot-container"></script>
+</head>
+<body>
+    <div id="chatbot-container"></div>
+</body>
+</html>
